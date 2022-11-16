@@ -6,6 +6,7 @@ import Services from './pages/services/Services';
 import Layout from './pages/Layout';
 import Footer from './components/footer/Footer';
 import { useEffect } from 'react';
+import PageNotFound from './pages/PageNotFound';
 function App() {
   useEffect(() => {
     const handleContextmenu = e => {
@@ -23,6 +24,8 @@ function App() {
       <Route index element={<Home />}/>
       <Route path='services' element={<Services />}/>
       <Route path='about' element={<About />}/>
+      <Route path='*' element={<PageNotFound/>}/>
+      
      </Route>
     </Routes>
     <Footer />

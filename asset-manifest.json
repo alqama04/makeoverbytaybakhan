@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/makeoverbytaybakhan/static/css/main.4523c9e6.css",
-    "main.js": "/makeoverbytaybakhan/static/js/main.5bf65614.js",
+    "main.js": "/makeoverbytaybakhan/static/js/main.8656ad7b.js",
     "reactPlayerYouTube.js": "/makeoverbytaybakhan/static/js/reactPlayerYouTube.02ed61f6.chunk.js",
     "reactPlayerSoundCloud.js": "/makeoverbytaybakhan/static/js/reactPlayerSoundCloud.e84955e3.chunk.js",
     "reactPlayerVimeo.js": "/makeoverbytaybakhan/static/js/reactPlayerVimeo.07d190d1.chunk.js",
@@ -55,7 +55,7 @@
     "static/media/banner.svg": "/makeoverbytaybakhan/static/media/banner.56feb3d1a88d6b94a861.svg",
     "index.html": "/makeoverbytaybakhan/index.html",
     "main.4523c9e6.css.map": "/makeoverbytaybakhan/static/css/main.4523c9e6.css.map",
-    "main.5bf65614.js.map": "/makeoverbytaybakhan/static/js/main.5bf65614.js.map",
+    "main.8656ad7b.js.map": "/makeoverbytaybakhan/static/js/main.8656ad7b.js.map",
     "reactPlayerYouTube.02ed61f6.chunk.js.map": "/makeoverbytaybakhan/static/js/reactPlayerYouTube.02ed61f6.chunk.js.map",
     "reactPlayerSoundCloud.e84955e3.chunk.js.map": "/makeoverbytaybakhan/static/js/reactPlayerSoundCloud.e84955e3.chunk.js.map",
     "reactPlayerVimeo.07d190d1.chunk.js.map": "/makeoverbytaybakhan/static/js/reactPlayerVimeo.07d190d1.chunk.js.map",
@@ -73,6 +73,6 @@
   },
   "entrypoints": [
     "static/css/main.4523c9e6.css",
-    "static/js/main.5bf65614.js"
+    "static/js/main.8656ad7b.js"
   ]
 }

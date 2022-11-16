@@ -79,7 +79,7 @@ const info = info_detail ? info_detail.map(detail => {
                 {detail.icon}
             </div>
             <h4>{detail.title}</h4>
-            <p>{detail.contact}</p>
+            <p className='text-center'>{detail.contact}</p>
         </div>
     </Col>
 }) : ''

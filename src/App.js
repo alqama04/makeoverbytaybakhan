@@ -24,9 +24,8 @@ function App() {
       <Route index element={<Home />}/>
       <Route path='services' element={<Services />}/>
       <Route path='about' element={<About />}/>
+      </Route>
       <Route path='*' element={<PageNotFound/>}/>
-      
-     </Route>
     </Routes>
     <Footer />
     </BrowserRouter>

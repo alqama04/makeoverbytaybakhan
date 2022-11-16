@@ -29,7 +29,7 @@ const info_detail = [
         id: 3,
         icon: <SiGmail />,
         title: "Email",
-        contact: "taybakhanirfan@gmai.com"
+        contact: "taybakhanirfan@gmail.com"
     }
 ]
 const bottom_img = [nailArt, eye, wedding, hair]
